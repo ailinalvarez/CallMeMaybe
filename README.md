@@ -90,19 +90,19 @@ C	      20.4%
 
 
 ### 🛠️ Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib / Seaborn
-SciPy
-Jupyter Notebook
+* Python
+* Pandas
+* NumPy
+* Matplotlib / Seaborn
+* SciPy
+* Jupyter Notebook
 
 
 #### 🚀 How to Run
-git clone <repo_url>
-cd telecom-project
-pip install -r requirements.txt
-jupyter notebook telecom-project.ipynb
+- git clone <repo_url>
+- cd telecom-project
+- pip install -r requirements.txt
+- jupyter notebook telecom-project.ipynb
 
 ### 🇪🇸 Versión en Español
 ## 📌 Descripción del Proyecto
@@ -190,16 +190,16 @@ C	      20.4%
 
 
 ### 🛠️ Tecnologías Utilizadas
-Python
-Pandas
-NumPy
-Matplotlib / Seaborn
-SciPy
-Jupyter Notebook
+* Python
+* Pandas
+* NumPy
+* Matplotlib / Seaborn
+* SciPy
+* Jupyter Notebook
 
 ### 🚀 Cómo Ejecutarlo
 
-git clone <repo_url>
-cd telecom-project
-pip install -r requirements.txt
-jupyter notebook telecom-project.ipynb
+- git clone <repo_url>
+- cd telecom-project
+- pip install -r requirements.txt
+- jupyter notebook telecom-project.ipynb
